@@ -1,6 +1,6 @@
 let lista = document.getElementById('lista');
 
-let salarios = [
+const salarios = [
     {id: 1,salario: 1500},
     {id:2,salario: 2000},
     {id:3,salario: 2200},
